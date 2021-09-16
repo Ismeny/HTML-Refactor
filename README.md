@@ -14,7 +14,7 @@ I built this website to help a marketing agency follow accessibility standards a
 ## Installation
 Go to URL: ***://file:///Users/ismeny/Desktop/Bootcamp/Homework/Homework-1-HTML-Refactor/index.html#search-engine-optimization***
 
-[An Internal Link](/Users/ismeny/Desktop/Bootcamp/Homework/Homework-1-HTML-Refactor/index.html)
+
 
 
 ![plot](screen-shot.png)
