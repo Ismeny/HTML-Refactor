@@ -1,7 +1,8 @@
 # Homework-1-HTML-Refactor
 
 ## Description
-I built this website to help a marketing agency follow accessibility standards and 
+This projects has semantic elements  that follow accesibility standards so that the site is optimized for search engines. 
+
 
 ### Table of Contents 
 * Installation
@@ -12,17 +13,14 @@ I built this website to help a marketing agency follow accessibility standards a
 * Test
 
 ## Installation
-Go to URL: ***://file:///Users/ismeny/Desktop/Bootcamp/Homework/Homework-1-HTML-Refactor/index.html#search-engine-optimization***
-
-
+Go to URL : ***file:///Users/ismeny/Desktop/Bootcamp/Homework/Homework-1-HTML-Refactor/index.html***
 
 
 ![plot](screen-shot.png)
 
 
 ## Usage
-Click navigation bar to interact
-
+Click navigation bar to interact with different sections on the website
 ## Credits
 n/a
 ## License
