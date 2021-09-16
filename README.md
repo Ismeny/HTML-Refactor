@@ -13,7 +13,7 @@ This projects has semantic elements  that follow accesibility standards so that 
 * Test
 
 ## Installation
-Go to URL : ***file:///Users/ismeny/Desktop/Bootcamp/Homework/Homework-1-HTML-Refactor/index.html***
+Go to URL : ***https://ismeny.github.io/Homework-1-HTML-Refactor/***
 
 
 ![plot](screen-shot.png)
