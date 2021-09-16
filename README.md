@@ -15,9 +15,7 @@ This projects has semantic elements  that follow accesibility standards so that 
 ## Installation
 Go to URL : ***https://ismeny.github.io/Homework-1-HTML-Refactor/***
 
-
-![plot](screen-shot.png)
-
+![Screenshot](screen-shot.png)
 
 ## Usage
 Click navigation bar to interact with different sections on the website
