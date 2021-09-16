@@ -1,10 +1,10 @@
-/*Universal Selector*/
+/*Sets the box size of every element*/
 * { 
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/*Type selector*/
+/*Sets the background color of the body*/
 body {
     background-color: #d9dcd6;
 }
@@ -59,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*Class selector*/
+/*Sets position of image*/
 .float-left {
     float: left;
     margin-right: 25px;

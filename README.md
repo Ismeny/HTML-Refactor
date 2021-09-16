@@ -22,7 +22,11 @@ Go to URL : ***https://ismeny.github.io/Homework-1-HTML-Refactor/***
 ## Usage
 Click navigation bar to interact with different sections on the website
 ## Credits
-n/a
+Received help from:
+* Jose Sachango- Tutor
+* Stephanie Cortez- peer
+* Sue Lee -peer
+* Chamo- peer
 ## License
 MIT
 
