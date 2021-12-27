@@ -1,4 +1,4 @@
-# Homework-1-HTML-Refactor
+# HTML-Refactor
 
 ## Description
 This projects has semantic elements  that follow accesibility standards so that the site is optimized for search engines. 
@@ -13,7 +13,7 @@ This projects has semantic elements  that follow accesibility standards so that 
 * Test
 
 ## Installation
-Go to URL : ***https://ismeny.github.io/Homework-1-HTML-Refactor/***
+Go to URL : ***https://ismeny.github.io/HTML-Refactor/***
 
 ![Screenshot](screen-shot.png)
 
